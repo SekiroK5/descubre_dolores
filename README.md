@@ -56,11 +56,9 @@ flutter test
 
 ## Capturas
 
-<!-- Agrega tus capturas en docs/ y descomenta:
 | Lista | Detalle | Pruebas |
 |---|---|---|
 | ![Lista](docs/lista.jpeg) | ![Detalle](docs/detalle.jpeg) | ![Tests](docs/tests.jpeg) |
--->
 
 ## Checklist de Arquitectura Limpia
 
